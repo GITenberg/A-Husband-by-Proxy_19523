@@ -1,0 +1,25 @@
+_repo: A-Husband-by-Proxy_19523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steele, Jack
+    gutenberg_agent_id: '8718'
+    url: http://www.gutenberg.org/2009/agents/8718
+description: ''
+gutenberg_issued: '2006-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: A Husband by Proxy
+url: http://www.gutenberg.org/ebooks/19523
